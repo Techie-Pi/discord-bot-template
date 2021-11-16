@@ -50,3 +50,7 @@ There are 3 key folders, almost everything you are going to do is inside these f
 2. Create a function that will handle the hook and export it
 3. Import the function on [index.js](data/hooks/index.js) and add it to the ``availableHooks`` object, using as the key
    the desired event name
+   
+# Discord bot creation
+If you do not have, yet a bot created, you can check out the 
+[Discord documentation](https://discord.com/developers/docs/intro#bots-and-apps) (or search online for a guide)
